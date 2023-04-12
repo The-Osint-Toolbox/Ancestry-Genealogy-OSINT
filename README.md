@@ -1,10 +1,15 @@
 # Genealogy-OSINT
+<p>This page is mainly aimed towards UK ancestry, genelogy and historical records.</p>
 <table>
     <tr>
         <td>Genelogy Resources</td>
     </tr>
 </table>
 <ul>
+    <li><a href="https://www.britishnewspaperarchive.co.uk/">British Newspaper Archive</a></li>
+     <p>Explore millions of digitised newspaper pages, brought to you by Findmypast and the British Library.</p>
+    <li><a href="https://www.findmypast.co.uk/">Find My Past</a></li> 
+     <p>Findmypast allows customers to connect to people, both past and present. This is the UK link.</p>
     <li><a href="https://www.freebmd.org.uk/">FreeBMD</a></li>
      <p>FreeBMD is an ongoing project, the aim of which is to transcribe the Civil Registration index of births, marriages and deaths for England and Wales.</p>
     <li><a href="https://www.freecen.org.uk/">FreeCen</a></li> 
