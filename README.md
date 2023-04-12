@@ -2,7 +2,7 @@
 <p>This page is mainly aimed towards UK ancestry, genelogy and historical records.</p>
 <table>
     <tr>
-        <td>Genelogy Resources</td>
+        <td>Ancestry & Genelogy Resources</td>
     </tr>
 </table>
 <ul>
@@ -18,4 +18,17 @@
      <p>FreeREG provides free internet searches of baptism, marriage, and burial records.</p>
     <li><a href="https://www.freeukgenealogy.org.uk/">UK Genelogy</a></li> 
      <p>UK Genealogy provides free, online access to family history records.</p>
+</ul>
+<br></br>
+</ul>
+<table>
+    <tr>
+        <td>Family Tree Sites</td>
+    </tr>
+</table>
+<ul>
+    <li><a href="https://www.findmypast.co.uk/">Find My Past</a></li> 
+     <p>Findmypast allows customers to connect to people, both past and present. This is the UK link.</p>
+    <li><a href="https://www.genesreunited.co.uk/">Genes Reuntied UK</a></li> 
+     <p>Genes Reunited is a family research site that can help you to research relatives and build a family tree.</p>
 </ul>
