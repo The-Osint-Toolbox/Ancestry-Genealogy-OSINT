@@ -8,6 +8,8 @@
 <ul>
     <li><a href="https://www.britishnewspaperarchive.co.uk/">British Newspaper Archive</a></li>
      <p>Explore millions of digitised newspaper pages, brought to you by Findmypast and the British Library.</p>
+    <li><a href="https://www.deceasedonline.com/">Deceased Online</a></li>
+     <p>A central database for UK burials and cremations.</p>
     <li><a href="https://www.familysearch.org/en/">Family Search</a></li>
      <p>FamilySearch resources help millions of people around the world discover their heritage and connect with family members</p>
     <li><a href="https://www.freebmd.org.uk/">FreeBMD</a></li>
@@ -30,7 +32,7 @@
 </table>
 <ul>
     <li><a href="https://www.ancestry.com/">Ancestry.com</a></li>
-     <p>Ancestry.com is an American genealogy company, it is the largest for-profit genealogy company in the world,</p>
+     <p>Ancestry.com is an American genealogy company, it is the largest for-profit genealogy company in the world.</p>
     <li><a href="https://www.findmypast.co.uk/">Find My Past</a></li> 
      <p>Findmypast allows customers to connect to people, both past and present. This is the UK link.</p>
     <li><a href="https://www.genesreunited.co.uk/">Genes Reuntied UK</a></li> 
