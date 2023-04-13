@@ -1,8 +1,8 @@
 # Genealogy-OSINT
-<p>This page is mainly aimed towards UK ancestry, genelogy and historical records.</p>
+<p>This page is mainly aimed towards UK ancestry, genealogy and historical records.</p>
 <table>
     <tr>
-        <td>Ancestry & Genelogy Resources</td>
+        <td>Ancestry & Genealogy Resources</td>
     </tr>
 </table>
 <ul>
