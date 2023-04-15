@@ -1,5 +1,9 @@
 # Genealogy-OSINT
 <p>This page is mainly aimed towards UK ancestry, genealogy and historical records.</p>
+<p align="center">
+  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+</p>
+
 <table>
     <tr>
         <td>Ancestry & Genealogy Resources</td>
