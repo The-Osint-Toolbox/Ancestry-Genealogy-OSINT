@@ -24,6 +24,8 @@
      <p>FreeREG provides free internet searches of baptism, marriage, and burial records.</p>
     <li><a href="http://www.genealogyintime.com/tools/genealogy-search-engine.html">Genealogy Search Engine</a></li>
      <p>Largest Free Ancestral Search Engine on the Internet</p>
+    <li><a href="https://ukcensusonline.com/search/">UK Census</a></li> 
+     <p>UK Census, free online search of records.</p>
     <li><a href="https://www.nationalarchives.gov.uk/">The National Archives</a></li>
      <p>UK National Archives</p>
     <li><a href="https://www.freeukgenealogy.org.uk/">UK Genelogy</a></li> 
