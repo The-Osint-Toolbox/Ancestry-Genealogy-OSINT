@@ -28,6 +28,8 @@
      <p>UK Census, online search of records.</p>
     <li><a href="https://www.nationalarchives.gov.uk/">The National Archives</a></li>
      <p>UK National Archives</p>
+    <li><a href="https://ukdataexplorer.com/">UK Data Explorer</a></li> 
+     <p>Tools for exploring UK public data.</p>
     <li><a href="https://www.freeukgenealogy.org.uk/">UK Genelogy</a></li> 
      <p>UK Genealogy provides free, online access to family history records.</p>
 </ul>
