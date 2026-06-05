@@ -14,6 +14,8 @@
      <p>Explore millions of digitised newspaper pages, brought to you by Findmypast and the British Library.</p>
     <li><a href="https://www.deceasedonline.com/">Deceased Online</a></li>
      <p>A central database for UK burials and cremations.</p>
+    <li><a href="https://www.finalnotes.page/obituary-research-guide/">FinalNotes Obituary Research Guide</a></li>
+     <p>A practical guide to finding obituary records, preserving source trails, and turning obituary clues into sourced family-history stories.</p>
     <li><a href="https://www.familysearch.org/en/">Family Search</a></li>
      <p>FamilySearch resources help millions of people around the world discover their heritage and connect with family members</p>
     <li><a href="https://www.freebmd.org.uk/">FreeBMD</a></li>
